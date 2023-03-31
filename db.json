@@ -1,7 +1,10 @@
 {
     "licenses": [
       { "id": "4729-19252-11241", "business-name": "Bluth Company", "expiration-date": "2025-12-10", "contact-person": "Michael Bluth", "license-type": "Real Estate" },
-      { "id": "4828-19200-11024", "business-name": "Stark Industries", "expiration-date": "2027-01-27", "contact-person": "Tony Start", "license-type": "Defense and Technology" },
+      { "id": "4828-19200-11024", "business-name": "Stark Industries", "expiration-date": "2027-01-27", "contact-person": "Tony Stark", "license-type": "Defense and Technology" },
+      { "id": "5719-73812-00021", "business-name": "Los Pollos Hermanos", "expiration-date": "2028-01-27", "contact-person": "Gustavo Fring", "license-type": "Food and Beverage" },
+      { "id": "4892-5721-10021", "business-name": "Pearson Consulting LLC", "expiration-date": "2025-12-05", "contact-person": "Mike Ross", "license-type": "Legal" },
+      { "id": "7581-17290-02025", "business-name": "Cyberdyne Systems", "expiration-date": "2028-10-14", "contact-person": "Sarah Connor", "license-type": "Defense and Technology" },
       { "id": "2294-19420-10002", "business-name": "Wonka Industries", "expiration-date": "2027-08-02", "contact-person": "Willy Wonka", "license-type": "Food Manufacturing" }
     ],
     "comments": [
