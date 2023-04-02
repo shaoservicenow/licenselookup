@@ -5,7 +5,11 @@
       { "id": "5719-73812-00021", "business-name": "Los Pollos Hermanos", "expiration-date": "2028-01-27", "contact-person": "Gustavo Fring", "license-type": "Food and Beverage" },
       { "id": "4892-5721-10021", "business-name": "Pearson Consulting LLC", "expiration-date": "2025-12-05", "contact-person": "Mike Ross", "license-type": "Legal" },
       { "id": "7581-17290-02025", "business-name": "Cyberdyne Systems", "expiration-date": "2028-10-14", "contact-person": "Sarah Connor", "license-type": "Defense and Technology" },
-      { "id": "2294-19420-10002", "business-name": "Wonka Industries", "expiration-date": "2027-08-02", "contact-person": "Willy Wonka", "license-type": "Food Manufacturing" }
+      { "id": "2294-19420-10002", "business-name": " Wonka Industries", "expiration-date": "2027-08-02", "contact-person": "Willy Wonka", "license-type": "Food Manufacturing" },
+      { "id": "4810-25012-59302", "business-name": "Everhard Technologies Ltd", "expiration-date": "2024-11-17", "contact-person": "Eva Hard", "license-type": "High Tech Manufacturing" },
+      { "id": "4910-10002-58239", "business-name": "Gringotts Bank", "expiration-date": "2021-03-24", "contact-person": "Harry Granger", "license-type": "Banking" },
+      { "id": "5718-10200-00421", "business-name": "Empire Records", "expiration-date": "2026-06-27", "contact-person": "Joe Reaves", "license-type": "Entertainment" }
+      
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
